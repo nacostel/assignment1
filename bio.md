@@ -2,4 +2,4 @@ Hobbies:
 My most prominent hobby is reading. My favorite genre of books is non-fiction/ historical.  Due to school obligations, I do not get to read as much as I used to.
 
 Programming Background:
-I had no prior programming experience when I started at OSU. I learned C++ in 161/162.
+I had no prior programming experience when I started at OSU. I learned C++ in 161/162.  My favorite programming project so far was the Game of Life assignment for 162.  
